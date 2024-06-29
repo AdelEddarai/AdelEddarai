@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdelEddarai
-- 👀 I’m interested in developing a new programs that will bright the future 
-- 🌱 I’m currently learning Blockchain Technology, Web Development, Mobile App as well as Data Analysis
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing a new Saas Products that add values
+- 🌱 I’m currently learning AI autonomous agents frameworks Technology, Web Development, as well as Data Analysis
 - 📫 How to reach , contact me at adeleddarai29@gmail.com
 
 <!---

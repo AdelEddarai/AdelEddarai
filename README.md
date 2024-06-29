@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @AdelEddarai
 
-## 👀 I’m interested in developing new SaaS products that add value.
-## 🌱 I’m currently learning AI autonomous agents frameworks technology, web development, and data analysis.
-## 📫 How to reach me: contact me at [adeleddarai29@gmail.com](mailto:adeleddarai29@gmail.com)
+- 👀 I’m interested in developing new SaaS products that add value.
+-🌱 I’m currently learning AI autonomous agents frameworks technology, web development, and data analysis.
+- 📫 How to reach me: contact me at [adeleddarai29@gmail.com](mailto:adeleddarai29@gmail.com)
 
 ---
 
